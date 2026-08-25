@@ -2746,35 +2746,35 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "دوباره این پیام را نشان نده"
 
-#: kmessagedialog.cpp:140
+#: kmessagedialog.cpp:137
 #, fuzzy
 #| msgid "Details"
 msgctxt "KMessageDialog|"
 msgid "Details"
 msgstr "جزئیات"
 
-#: kmessagedialog.cpp:226
+#: kmessagedialog.cpp:218
 #, fuzzy
 #| msgid "Question"
 msgctxt "KMessageDialog|"
 msgid "Question"
 msgstr "پرسش"
 
-#: kmessagedialog.cpp:231
+#: kmessagedialog.cpp:223
 #, fuzzy
 #| msgid "Warning"
 msgctxt "KMessageDialog|"
 msgid "Warning"
 msgstr "اخطار"
 
-#: kmessagedialog.cpp:234
+#: kmessagedialog.cpp:226
 #, fuzzy
 #| msgid "Information"
 msgctxt "KMessageDialog|"
 msgid "Information"
 msgstr "اطلاعات"
 
-#: kmessagedialog.cpp:237
+#: kmessagedialog.cpp:229
 #, fuzzy
 #| msgid "Error"
 msgctxt "KMessageDialog|"

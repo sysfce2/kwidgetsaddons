@@ -1887,27 +1887,27 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "यह संदेश फिर से न दिखाएँ"
 
-#: kmessagedialog.cpp:140
+#: kmessagedialog.cpp:137
 msgctxt "KMessageDialog|"
 msgid "Details"
 msgstr "विवरण"
 
-#: kmessagedialog.cpp:226
+#: kmessagedialog.cpp:218
 msgctxt "KMessageDialog|"
 msgid "Question"
 msgstr "प्रश्न"
 
-#: kmessagedialog.cpp:231
+#: kmessagedialog.cpp:223
 msgctxt "KMessageDialog|"
 msgid "Warning"
 msgstr "चेतावनी"
 
-#: kmessagedialog.cpp:234
+#: kmessagedialog.cpp:226
 msgctxt "KMessageDialog|"
 msgid "Information"
 msgstr "जानकारी"
 
-#: kmessagedialog.cpp:237
+#: kmessagedialog.cpp:229
 msgctxt "KMessageDialog|"
 msgid "Error"
 msgstr "त्रुटि"

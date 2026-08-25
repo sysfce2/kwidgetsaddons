@@ -2108,27 +2108,27 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "இத்தகவலை மீண்டும் காட்டாதே"
 
-#: kmessagedialog.cpp:140
+#: kmessagedialog.cpp:137
 msgctxt "KMessageDialog|"
 msgid "Details"
 msgstr "விவரங்கள்"
 
-#: kmessagedialog.cpp:226
+#: kmessagedialog.cpp:218
 msgctxt "KMessageDialog|"
 msgid "Question"
 msgstr "கேள்வி"
 
-#: kmessagedialog.cpp:231
+#: kmessagedialog.cpp:223
 msgctxt "KMessageDialog|"
 msgid "Warning"
 msgstr "எச்சரிக்கை"
 
-#: kmessagedialog.cpp:234
+#: kmessagedialog.cpp:226
 msgctxt "KMessageDialog|"
 msgid "Information"
 msgstr "தகவல்"
 
-#: kmessagedialog.cpp:237
+#: kmessagedialog.cpp:229
 msgctxt "KMessageDialog|"
 msgid "Error"
 msgstr "சிக்கல்"

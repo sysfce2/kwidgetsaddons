@@ -1927,7 +1927,7 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "Seda teadet rohkem ei näidata"
 
-#: kmessagedialog.cpp:140
+#: kmessagedialog.cpp:137
 #, fuzzy
 #| msgctxt "KMessageBox|"
 #| msgid "Details"
@@ -1935,7 +1935,7 @@ msgctxt "KMessageDialog|"
 msgid "Details"
 msgstr "Üksikasjad"
 
-#: kmessagedialog.cpp:226
+#: kmessagedialog.cpp:218
 #, fuzzy
 #| msgctxt "KMessageBox|"
 #| msgid "Question"
@@ -1943,7 +1943,7 @@ msgctxt "KMessageDialog|"
 msgid "Question"
 msgstr "Küsimus"
 
-#: kmessagedialog.cpp:231
+#: kmessagedialog.cpp:223
 #, fuzzy
 #| msgctxt "KMessageBox|"
 #| msgid "Warning"
@@ -1951,7 +1951,7 @@ msgctxt "KMessageDialog|"
 msgid "Warning"
 msgstr "Hoiatus"
 
-#: kmessagedialog.cpp:234
+#: kmessagedialog.cpp:226
 #, fuzzy
 #| msgctxt "KMessageBox|"
 #| msgid "Information"
@@ -1959,7 +1959,7 @@ msgctxt "KMessageDialog|"
 msgid "Information"
 msgstr "Teave"
 
-#: kmessagedialog.cpp:237
+#: kmessagedialog.cpp:229
 #, fuzzy
 #| msgctxt "KMessageBox|"
 #| msgid "Error"
